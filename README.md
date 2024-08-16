@@ -8,17 +8,17 @@
 <video src="https://private-user-images.githubusercontent.com/18239907/353734784-d9428c68-f9c1-484b-9681-6c1625621237.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI0MTA5MTksIm5iZiI6MTcyMjQxMDYxOSwicGF0aCI6Ii8xODIzOTkwNy8zNTM3MzQ3ODQtZDk0MjhjNjgtZjljMS00ODRiLTk2ODEtNmMxNjI1NjIxMjM3Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzMxVDA3MjMzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4ZmM5NmViNWY2MjRkMzlmZjJmODk4NWZhOTUxNGJiNWU2N2ViY2NiZDU2MTMyYTc2NTUzZjk3NDgwOGEwNDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.g178KviPlhdsqhVV-UBu1j-N6Gw0Gi5299OHRmbdxCo" data-canonical-src="https://private-user-images.githubusercontent.com/18239907/353734784-d9428c68-f9c1-484b-9681-6c1625621237.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI0MTA5MTksIm5iZiI6MTcyMjQxMDYxOSwicGF0aCI6Ii8xODIzOTkwNy8zNTM3MzQ3ODQtZDk0MjhjNjgtZjljMS00ODRiLTk2ODEtNmMxNjI1NjIxMjM3Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzMxVDA3MjMzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4ZmM5NmViNWY2MjRkMzlmZjJmODk4NWZhOTUxNGJiNWU2N2ViY2NiZDU2MTMyYTc2NTUzZjk3NDgwOGEwNDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.g178KviPlhdsqhVV-UBu1j-N6Gw0Gi5299OHRmbdxCo" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 </video>  
 
-### 2、建筑地面AR
+### 2、3d photo
+<video src="https://github.com/user-attachments/assets/5155492f-42b1-4521-a791-29828712a8e6"></video>  
+<video src="https://github.com/user-attachments/assets/401e0206-7493-4f35-9784-dced5cb4f862"></video>  
+
+### 3、建筑地面AR
 <p align="center">
   <img src="building1.jpeg" height=300 width=400/>
 </p>
 
-### 2、人脸2D点位
+### 4、人脸2D点位
 <div align="center">
   <img src="demo2-Camera_xhs_1722259862542.gif" height=360 width=250/>
 </div>
 
-### 3、宠物2D点位
-<div align="center">
-  <img src="cat.jpeg" height=360 width=250/>
-</div>
