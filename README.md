@@ -9,9 +9,9 @@
 </video>  
 
 ### 2、3d photo 
+https://github.com/user-attachments/assets/5133222e-5e9e-4bb1-91ca-14be07ea5bc8
 
-https://github.com/user-attachments/assets/7caf6f27-0b3e-4358-a3da-f1869fc9e1e9
-<video src="https://github.com/user-attachments/assets/401e0206-7493-4f35-9784-dced5cb4f862"></video>  
+https://github.com/user-attachments/assets/e1baf421-f363-4694-a2de-b7fa27853b17
 
 ### 3、建筑地面AR
 <p align="center">
