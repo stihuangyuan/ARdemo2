@@ -2,7 +2,7 @@
 
 ### 1、AR手机拍摄
 
-![image](AR.gif)
+![image](assert/AR.gif)
 
 ### 2、3d人体轨迹/影分身
 这种玩法根据用户上传视频，算法处理完整个视频轨迹，然后渲染添加动态特效
@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/3e83e700-9ede-4cb3-81e2-27869bedecbe
 
 食人花
 
-![image](食人花.gif)
+![image](assert/食人花.gif)
 
 ### 3、3d photo 
 https://github.com/user-attachments/assets/5133222e-5e9e-4bb1-91ca-14be07ea5bc8
@@ -32,4 +32,4 @@ https://github.com/user-attachments/assets/3d91f593-f91f-446a-b0bf-2763d08f55ee
 
 ### 4、人脸300点位
 
-![image](demo2-Camera_xhs_1722259862542.gif)
+![image](assert/demo2-Camera_xhs_1722259862542.gif)
